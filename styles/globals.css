@@ -1,0 +1,46 @@
+option {
+    /* background-color: white!important; */
+    color: white;
+}
+
+input,
+textarea {
+    background-color: white !important;
+    color: black !important;
+}
+
+.chakra-react-select__control {
+    background-color: white !important;
+    color: black !important;
+}
+
+.chakra-react-select__placeholder {
+    color: black !important;
+}
+
+.chakra-react-select__input {
+    background-color: transparent !important;
+}
+
+.chakra-react-select__multi-value {
+    background-color: #cfcfcf !important;
+}
+
+.chakra-react-select__multi-value__label, .chakra-react-select__multi-value__remove {
+    color: rgb(58, 58, 58) !important;
+}
+
+.quill {
+    background-color: white !important;
+    color: black !important;
+    border-radius: 10px;
+    border: none !important;
+}
+
+.quill > * {
+    border: none !important;
+}
+
+.ql-toolbar {
+    border-bottom: 1px solid #ccc !important;
+}
